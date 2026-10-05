@@ -6,6 +6,25 @@
 >
 > 🔒 Il codice sorgente è in un repository privato. Questa pagina descrive il progetto, le scelte tecniche e lo stato dei lavori: se vuoi vedere il codice, [scrivimi](#contatti) e te lo mostro.
 
+## Screenshot
+
+<p align="center">
+  <img src="img/01-dashboard.webp" width="24%" alt="Dashboard con la mappa e la prossima partita">
+  <img src="img/02-rosa.webp" width="24%" alt="Rosa della nazionale">
+  <img src="img/03-formazione.webp" width="24%" alt="Formazione sul campo">
+  <img src="img/04-calendario.webp" width="24%" alt="Calendario delle partite">
+</p>
+<p align="center">
+  <img src="img/05-riepilogo-partita.webp" width="24%" alt="Riepilogo della partita con le pagelle">
+  <img src="img/06-classifiche.webp" width="24%" alt="Classifica ELO delle nazionali">
+  <img src="img/07-traguardi.webp" width="24%" alt="Bacheca dei traguardi di carriera">
+</p>
+
+<p align="center">
+  <img src="img/telecronaca.webp" width="90%" alt="Telecronaca della partita in diretta">
+  <br><em>La telecronaca in diretta, nella versione desktop.</em>
+</p>
+
 ## Cosa fa
 
 - 🌍 **128 nazionali in 4 federazioni** (Europa, America, Asia/Oceania, Africa), ognuna con la sua forza di partenza e il suo ranking ELO.
@@ -16,7 +35,7 @@
 - ⚽ **Partite simulate con la cronaca scritta**: azioni, gol, cartellini, infortuni, sostituzioni, supplementari e rigori, raccontati con oltre 200 frasi e i nomi dei calciatori in campo.
 - 🌦️ **Meteo e arbitri che contano**: 1.024 città ospitanti con il loro clima mese per mese e 128 arbitri con un carattere (permissivo, severissimo, imprevedibile…) che cambia il numero di cartellini.
 - 🏆 **Due competizioni a stagione**: Coppa Continentale e Coppa del Mondo, con gironi, classifiche, fasi finali e un'asta per decidere il paese ospitante.
-- 🏅 **133 traguardi di carriera** a rarità, con premi e una bacheca.
+- 🏅 **Oltre 130 traguardi di carriera** a rarità (bronzo, argento, oro, platino), con premi e una bacheca.
 - 🛠️ **Pannello di amministrazione** con una procedura guidata a passi per creare e avviare un mondo, generare le rose e gestire gli utenti.
 - 🔐 **Account completi**: registrazione con conferma email, recupero password, profilo con avatar, autocancellazione dell'account con anonimizzazione dei dati.
 
